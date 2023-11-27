@@ -6,13 +6,13 @@
 
 -----
 
-For this specialization, you learned the basics of Python and the packages designed to work with datasets -- Pandas and NumPy. 
+For this specialization, you learned the **basics of Python** and the packages designed to work with datasets: **Pandas and NumPy.** 
 
-You were also introduced to visualization packages, Matplotlib, Seaborn and Plotly. 
+You were also introduced to visualization packages: **Matplotlib, Seaborn and Plotly.**
 
 Now is time to combine these skills into an DA project. 
 
-Your task is to analyze data with Python and create a notebook, where you can show your Python and analytical skills.
+Your task is to analyze data with Python and **create a notebook**, where you can show your Python and analytical skills.
 
 -----
 
@@ -38,7 +38,9 @@ Please note that even though you can replicate your own project done with other 
 **Evaluation Criteria**
 
 * Minimum requirements are fulfilled: used different data types, used functions to handle datasets, used Numpy, Pandas and any of the visualizations package: Matplotlib, Seaborn, Plotly.
-*Followed structured approach to data analysis.
+  
+* Followed structured approach to data analysis.
+  
 * Quality of Python code.
 
 -----
